@@ -4,7 +4,7 @@ https://keybase.io/racer500
 
 I hereby claim:
 
-  * I am an admin of https://racer500.github.io
+  * I am an admin of https://racer500.com
   * I am racer500 (https://keybase.io/racer500) on keybase.
   * I have a public key with fingerprint 2F9E 21DC 9919 5448 41FB  E038 3C2B 0787 7772 CF0D
 
@@ -27,16 +27,16 @@ To do so, I am signing this object:
             ]
         },
         "service": {
-            "hostname": "racer500.github.io",
+            "hostname": "racer500.com",
             "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1471521618,
+    "ctime": 1471521741,
     "expire_in": 157680000,
-    "prev": "0bfbd3de27ea4d12c048a3de995a1bdff2d80b098d19da57b5f005333ebdef39",
-    "seqno": 31,
+    "prev": "f59ac53c0b734ce4094bf20b44223fea577689a028b83e0b377f71a9bedfce22",
+    "seqno": 32,
     "tag": "signature"
 }
 
@@ -46,24 +46,24 @@ which yields the signature:
 Version: Keybase OpenPGP v2.0.56
 Comment: https://keybase.io/crypto
 
-yMJqAnicrVJdbBVFFL7lNzQp6QNoFGjagWhDapmZ3dmduSRo8IEYAlofUKjNdX7O
-tpted6+7e4uVNNEYQ2IDvhAIrZgoJpgqT0YbCcoFkcZrlR8lQHyxJjw0ilFKY+EB
-nK36Ynz0vMycme9855vvzNmmhYXGhhvTr/WNtLWdaPj69J1q4ZmPjz69B6nYDKLi
-HtQP8wuUDaRZqT80qIgwwYR7WmsfAux6gvpGGuNKuwXmeUQYgZlSNKA+M9oFCcTj
-1JegCYBSOY5jiTpQEEa9kFSSMMosLQ0EUGK0EEQw1+UuCRRghzuaKuxz3wbVATa2
-sC9O8worTskUOsPYntmkNC/vP/D/s+7qPF2gNAOqmAJPKDC+w7hvDMG+YjaIyIEp
-JJF8ASw6kRoShjEa6kAJDMT9kPuahr1WdIqK3QgH3GjtCMokAW0Mpdiljis4k9Rg
-FQjXwZRyIA4XWmKDHaYxp0I6gQtGcRygHsttOw6Eep48d+lf3Tt7w6yvqv5yrJLE
-Wazjsr3vy7JKWsy1ZYOVvGA3qNLfVCUVRsZOylYMQJKGcYSKxCJ1FubcxPUJo8Qj
-vAPBS5UwgVKYI5jvcWwj7wMDuf0qUMYxQH2QriFUY5dLmwthX6xMEFDDscKCGzsJ
-yayNAcbMcRxQBgIn9zOFF6MYFR1idcpey2n9i2RWTQANnak9t6jQ0FhYsnhB/oUL
-jcua//nYs01L78Vb2w+UzxceevjlqXLroVr7kw/G5ujMwj/m1q/ZvS1c+Qkbvrhl
-wa2VX9Xnut7c/v4rbP3qRybbst+/3PQUbG6v/XRu4pg/98vYaEc9+nby8Nl07PLQ
-B/tnt3U9dsprOXffqctvXLwyPLK2//upUXi3+8fXyysqzQ0fdm6ITnbvOFh3tny2
-ax29+sV3MzX/0ccP3Ny1UbTcvVHrmtj++fhH06NTI2f86qct9+/oicb3bs4GL+ir
-7z1w6daFt5/9Jpj8tXaleedvP+v21ZvQ8ZNrNj4/cbpn7KZaenjvO9f27Z95dTi+
-Xb8ze8lc8ze0Xp8df2Jtfcmi1ukj6q1VR5rOLz92cN+K2+X6D8uX/QlQqmVb
-=ZMHX
+yMJpAnicrVJvaJVVHL5bS9cqWqasTGgeJpRd5znnPeee91zF0qCc5IcbqMHMy/nz
+e+9ett339t53d7lxs+xCn/oQRUWRBJIsm4WQBf4pFQlrKEZY4ERFIjZs9kXaEpTO
+O+pL9LHfl/PveZ7fc55zTt17R6ataWb6tb73ly8/3DRx4sZQZtuhvWdGkY7sTpQf
+Rf0wP8CAhWpS7A8tyiNMMPFzxhgBAWY5SYVV1jLlpsBzOSKtxFxrGlDBrWGggOR8
+KhQYAqB1ivOxQlkUhOUSxJU4LCdOlgYSKLFGSiI5Yz4jgQbs+Z6hGgtfuKImwNYR
++6JqynDmtKpCdxi5Pbcoztv7D/z/7HtoXi7QhgPVXENOarDC476wlmChuSsiU2AV
+4rIaBIeOlYGYY4zqWRRDLeqHNNdqWHKmqyjfi3DgW2M8SbkiYKylFDPqMelzRS3W
+gWQeptQH4vnSKGyxxw32qVRewMBqHwfoBaftOtZCMy+epvSv7t0mGnS+KnGURCYa
+cCd9SVKp5lNXyc5KCh0GXfxbpKjDsnVv5Bg1iKthVEZ54pAmCVNVwgThlAhGsghe
+qoQxFMMUwUXOx67SPlBLk+JSGe4ZrIXHDDAsmQ4o1oxR6gWguHAMqTD1te8B1p4Q
+gSAqTTUwQClKr/ViOUJ5jzqfquQ0XXJllQzFgOonj29vyTS1ZRbc2Zx+3kzbXe3/
+fOmn1y283fnDkl8P0F29Lz85fL4w1lE8O9w+9Zxqn3njoWNdPY+OF0bGfv7tc3Qr
+KNVbVO8n7zz1+3Bm9M1GoTF99fofrZumF3TQSXRkUXbRvufP0a0Pd40/3tzzeqO1
+gZc9w+of3FrMb87yyYGWqau7j5z++OaBsfvWj28/+khhrjB3YXXT3dN71858NJFt
+W33h056l929cOnJ2w6Fnz+954nLzwvceW7Xs+w0/deZPrRL1PbO1ix0TKye9GxsP
+vvrnyNffvnLOzB48vuNHOH1iyy9LNu/bcenBcOCz5IGOLWd2f3Ot+3bvsSuDjbkv
+Zgc7W0uHv9ofblqzbuvKL99auwbWX67s//DdrhW7vnt76uT1a/f8BdL8W6I=
+=z/Ik
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
